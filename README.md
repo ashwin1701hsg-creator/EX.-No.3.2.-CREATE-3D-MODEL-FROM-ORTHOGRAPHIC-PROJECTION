@@ -44,8 +44,8 @@ To create a 3D model from given orthographic projection.
 ## OUTPUT:
 
 
+![PRANAV AUTODESK 6666_page-0001](https://github.com/user-attachments/assets/47a844ed-d8df-4c74-a9df-c37b994e097a)
 
-![AUTODESK 6_page-0001](https://github.com/user-attachments/assets/0ec1ef85-d7fb-447f-8bee-70d82a14d097)
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
 
